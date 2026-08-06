@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👨‍💻 About Me
 
-<!--
-**Celokuhle04/Celokuhle04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Mathematics & Chemistry Graduate
 
-Here are some ideas to get you started:
+📖 Currently pursuing a BSc Honours in Mathematics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 My research focuses on:
+
+- Fuzzy Set Theory
+- Fuzzy C-Means Clustering
+- Modern Data Analysis
+- Intelligent Systems
+- Mathematical Optimization
+
+💻 I enjoy transforming mathematical theory into computational algorithms using Python and MATLAB.
+
+🎯 Long-term goal:
+To contribute to research in fuzzy mathematics, optimization, and artificial intelligence through postgraduate studies.
