@@ -94,10 +94,8 @@ I am currently pursuing a BSc Honours in Mathematics, where my research focuses 
 
 ## 🌱 Currently Learning
 
-- Data Science
+- SQL
 - Machine Learning
-- High Performance Computing
-- Scientific Programming
 - Optimization Algorithms
   
 ---
@@ -187,7 +185,7 @@ I'm always open to learning, contributing to research projects, and connecting w
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sandise-ntete">
+<a href="https://www.linkedin.com/in/sandise-ntete-249480278">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
