@@ -30,9 +30,9 @@ I am currently pursuing a BSc Honours in Mathematics, where my research focuses 
 ---
 ## 🛠 Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,latex,linux,jupyter,scikit-learn,matplotlib,pandas,numpy,matlab"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,sql,excel,r,windows"/>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,latex,linux,scikitlearn"/>
+
+<img src="https://skillicons.dev/icons?i=docker,sqlite,r,excel,windows,matplotlib,pandas,matlab,numpy"/>
 
 
 ---
