@@ -5,15 +5,11 @@ Honours Mathematics Student | Aspiring Data Scientist & Analyst | Scientific Pro
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Honours+Mathematics+Researcher;Fuzzy+Set+Theory+Researcher;Aspiring+Data+Scientist+$Analyst;Python+Developer;Scientific+Programmer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Honours+Mathematics+Student;Fuzzy+Set+Theory+Researcher;Aspiring+Data+Scientist+$Analyst;Python+Developer;Scientific+Programmer"/>
 </p>
 
 <p align="center">
 Mathematics • Data Science • Artificial Intelligence • Scientific Computing • Optimization
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Celokuhle04&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 <p align="center">
@@ -34,13 +30,10 @@ I am currently pursuing a BSc Honours in Mathematics, where my research focuses 
 ---
 ## 🛠 Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=python,matlab,git,github,vscode,latex,linux"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,latex,linux"/>
+<img src="https://skillicons.dev/icons?i=NumPy,matlab,Pandas,Matplotlib,Jupyter"/>
 
+---
 
 ## 🎓 Education
 
@@ -48,7 +41,9 @@ I am currently pursuing a BSc Honours in Mathematics, where my research focuses 
 
 🎓 **BSc Mathematics & Chemistry**
 
-## 📚 Current Research & Research Interests
+---
+
+## 📚 Current Research & Interests
 
 - Fuzzy Set Theory
 - Mathematical Optimization
@@ -58,6 +53,8 @@ I am currently pursuing a BSc Honours in Mathematics, where my research focuses 
 - Intelligent Systems
 - Scientific Computing
 - Pattern Recognition
+
+---
 
 ## Certifications & Professional Development
 
@@ -73,15 +70,6 @@ I am currently pursuing a BSc Honours in Mathematics, where my research focuses 
 
 ---
 
-## 🌱 Currently Learning
-
-- SQL
-- Machine Learning
-- Optimization Algorithms
-  
----
-
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -89,6 +77,7 @@ I am currently pursuing a BSc Honours in Mathematics, where my research focuses 
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Celokuhle04&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+---
 
 ## 📈 Contribution Graph
 
@@ -98,6 +87,7 @@ I am currently pursuing a BSc Honours in Mathematics, where my research focuses 
 
 ## 🎯 Current Learning & Goals
 
+- SQL
 - 📖 Advance research in fuzzy mathematics
 - 🧮 Develop optimization algorithms
 - 💻 Build mathematical software using Python and MATLAB
