@@ -32,29 +32,34 @@ Mathematics • Data Science • Artificial Intelligence • Scientific Computin
 I am currently pursuing a BSc Honours in Mathematics, where my research focuses on Fuzzy Set Theory and its applications to modern data analysis. My interests lie in mathematical modelling, optimization, artificial intelligence, and scientific computing, with the goal of developing intelligent data-driven solutions to real-world problems.
 
 ---
+## 🛠 Languages & Tools
+
+<img src="https://skillicons.dev/icons?i=python,matlab,git,github,vscode,latex,linux"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
 
 ## 🎓 Education
 
-🎓 **BSc Mathematics & Chemistry**
-
 📚 **BSc Honours in Mathematics** *(Current)*
 
-## 🔬 Current Research
+🎓 **BSc Mathematics & Chemistry**
 
-**Title**
-
-> *Fuzzy Set Theory and its Applications to Modern Data Analysis*
-
-**Focus Areas**
+## 📚 Current Research & Research Interests
 
 - Fuzzy Set Theory
+- Mathematical Optimization
 - Fuzzy Logic
 - Fuzzy C-Means Clustering
-- Mathematical Optimization
+- Data Analysis
 - Intelligent Systems
-- Modern Data Analysis
+- Scientific Computing
+- Pattern Recognition
 
-## 🏆 Certifications & Professional Development
+## Certifications & Professional Development
 
 🏅 **CHPC Summer School Code**
 - Centre for High Performance Computing
@@ -68,30 +73,6 @@ I am currently pursuing a BSc Honours in Mathematics, where my research focuses 
 
 ---
 
-## 🛠 Languages & Tools
-
-<img src="https://skillicons.dev/icons?i=python,matlab,git,github,vscode,latex,linux"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
-
----
-
-## 📚 Research Interests
-
-- Fuzzy Set Theory
-- Mathematical Optimization
-- Fuzzy Logic
-- Fuzzy C-Means Clustering
-- Data Analysis
-- Intelligent Systems
-- Scientific Computing
-- Pattern Recognition
-
----
-
 ## 🌱 Currently Learning
 
 - SQL
@@ -100,29 +81,6 @@ I am currently pursuing a BSc Honours in Mathematics, where my research focuses 
   
 ---
 
-## 🚀 Career Goals
-
-✔ Become a Data Scientist
-
-✔ Conduct research in Applied Mathematics
-
-✔ Develop intelligent optimization algorithms
-
-✔ Contribute to AI-driven research
-
-✔ Pursue MSc and PhD studies
-
----
-
-## 📂 Featured Projects
-
-🧮 Fuzzy Set Theory Research
-
-📊 Data Analysis Projects
-
-🐍 Python Algorithms
-
-📈 Mathematical Optimization
 
 ## 📊 GitHub Statistics
 
@@ -133,23 +91,13 @@ I am currently pursuing a BSc Honours in Mathematics, where my research focuses 
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Celokuhle04&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Celokuhle04&theme=tokyo-night"/>
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Current Learning & Goals
 
 - 📖 Advance research in fuzzy mathematics
 - 🧮 Develop optimization algorithms
