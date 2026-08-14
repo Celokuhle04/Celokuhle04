@@ -5,7 +5,7 @@ Honours Mathematics Student | Aspiring Data Scientist & Analyst | Scientific Pro
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Honours+Mathematics+Student;Fuzzy+Set+Theory+Researcher;Aspiring+Data+Scientist+&+Analyst;Python+Developer;Scientific+Programmer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Honours+Mathematics+Student;Fuzzy+Set+Theory+Researcher;Aspiring+Data+Scientist;Aspiring+Data+Analyst;Aspiring+Quantitative+Analyst;Python+Developer;Scientific+Programmer"/>
 </p>
 
 <p align="center">
@@ -29,11 +29,11 @@ I am currently pursuing a BSc Honours in Mathematics, where my research focuses 
 
 ---
 ## 🛠 Languages & Tools
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,latex,linux"/>
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,latex,linux,jupyter,scikit-learn,matplotlib,pandas,numpy,matlab"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=numpy,matlab,pandas,matplotlib,jupyter"/>
-</div>
+<img src="https://skillicons.dev/icons?i=docker,sql,excel,r,windows"/>
+
 
 ---
 
@@ -75,8 +75,8 @@ I am currently pursuing a BSc Honours in Mathematics, where my research focuses 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Celokuhle04&show_icons=true&theme=tokyo-night" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Celokuhle04&layout=compact&theme=tokyo-night" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Celokuhle04&show_icons=true&theme=tokyo-night"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Celokuhle04&layout=compact&theme=tokyo-night"/>
 </p>
 
 ---
