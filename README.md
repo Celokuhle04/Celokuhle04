@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Celokuhle Sandise Ntete</h1>
 
 <h3 align="center">
-Honours Mathematics Researcher | Aspiring Data Scientist | Scientific Programmer
+Honours Mathematics Student | Aspiring Data Scientist & Analyst | Scientific Programmer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Honours+Mathematics+Researcher;Fuzzy+Set+Theory+Researcher;Aspiring+Data+Scientist;Python+Developer;Scientific+Programmer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Honours+Mathematics+Researcher;Fuzzy+Set+Theory+Researcher;Aspiring+Data+Scientist+$Analyst;Python+Developer;Scientific+Programmer"/>
 </p>
 
 <p align="center">
@@ -89,7 +89,6 @@ I am currently pursuing a BSc Honours in Mathematics, where my research focuses 
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Celokuhle04&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
 ## 📈 Contribution Graph
 
@@ -130,7 +129,7 @@ I'm always open to learning, contributing to research projects, and connecting w
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sandise-ntete-249480278">
+<a href="https://www.linkedin.com/in/celokuhle-sandise-ntete-249480278">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
