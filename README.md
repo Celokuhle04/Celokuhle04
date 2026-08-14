@@ -32,7 +32,7 @@ I am currently pursuing a BSc Honours in Mathematics, where my research focuses 
 
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode,latex,linux,scikitlearn"/>
 
-<img src="https://skillicons.dev/icons?i=docker,sqlite,r,excel,windows,matplotlib,pandas,matlab,numpy"/>
+<img src="https://skillicons.dev/icons?i=docker,sqlite,r,windows,matlab"/>
 
 
 ---
