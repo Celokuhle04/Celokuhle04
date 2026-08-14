@@ -75,8 +75,8 @@ I am currently pursuing a BSc Honours in Mathematics, where my research focuses 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Celokuhle04&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Celokuhle04&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Celokuhle04&show_icons=true&theme=tokyo-night" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Celokuhle04&layout=compact&theme=tokyo-night" />
 </p>
 
 ---
