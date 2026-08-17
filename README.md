@@ -42,7 +42,7 @@ logic with full-stack and data engineering training to solve complex technical c
 
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode,latex,linux,scikitlearn"/>
 
-<img src="https://skillicons.dev/icons?i=docker,sqllite,r,windows,matlab"/>
+<img src="https://skillicons.dev/icons?i=docker,sqlite,r,windows,matlab"/>
 
 ---
 
