@@ -25,14 +25,17 @@ Mathematics • Data Science • Artificial Intelligence • Scientific Computin
 
 ## 👨‍💻 About Me
 
-I am currently pursuing a BSc Honours in Mathematics, where my research focuses on Fuzzy Set Theory and its applications to modern data analysis. My interests lie in mathematical modelling, optimization, artificial intelligence, and scientific computing, with the goal of developing intelligent data-driven solutions to real-world problems.
+Quantitative BSc Honours Mathematics student specializing in mathematical modeling and fuzzy set theory. Proficient 
+transforming complex datasets into actionable insights using Python, SQL, and Power BI. Combining rigorous mathematical
+logic with full-stack and data engineering training to solve complex technical challenges
+
 
 ---
 ## 🛠 Languages & Tools
 
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode,latex,linux,scikitlearn"/>
 
-<img src="https://skillicons.dev/icons?i=docker,sqlite,r,windows,matlab"/>
+<img src="https://skillicons.dev/icons?i=docker,sql,r,windows,matlab"/>
 
 
 ---
@@ -42,19 +45,6 @@ I am currently pursuing a BSc Honours in Mathematics, where my research focuses 
 📚 **BSc Honours in Mathematics** *(Current)*
 
 🎓 **BSc Mathematics & Chemistry**
-
----
-
-## 📚 Current Research & Interests
-
-- Fuzzy Set Theory
-- Mathematical Optimization
-- Fuzzy Logic
-- Fuzzy C-Means Clustering
-- Data Analysis
-- Intelligent Systems
-- Scientific Computing
-- Pattern Recognition
 
 ---
 
@@ -72,20 +62,30 @@ I am currently pursuing a BSc Honours in Mathematics, where my research focuses 
 
 ---
 
+## 📚 Current Research & Interests
+
+- Fuzzy Set Theory
+- Mathematical Optimization
+- Fuzzy Logic
+- Fuzzy C-Means Clustering
+- Data Analysis
+- Intelligent Systems
+- Scientific Computing
+- Pattern Recognition
+
+---
+
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Celokuhle04&theme=tokyo-night"/>
 
 ---
 
-## 🎯 Current Learning & Goals
+## 🎯 Current Learning
 
-- SQL
 - 📖 Advance research in fuzzy mathematics
 - 🧮 Develop optimization algorithms
-- 💻 Build mathematical software using Python and MATLAB
-- 🎓 Pursue MSc studies in Pure Mathematics
-
+  
 ---
 
 ## 🤝 Open to Collaborate
