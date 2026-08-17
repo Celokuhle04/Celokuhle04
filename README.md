@@ -25,18 +25,8 @@ Mathematics • Data Science • Artificial Intelligence • Scientific Computin
 
 ## 👨‍💻 About Me
 
-Quantitative BSc Honours Mathematics student specializing in mathematical modeling and fuzzy set theory. Proficient 
-transforming complex datasets into actionable insights using Python, SQL, and Power BI. Combining rigorous mathematical
+Quantitative BSc Honours Mathematics student specializing in mathematical modeling and fuzzy set theory. Proficient in transforming complex datasets into actionable insights using Python, SQL, and Power BI. Combining rigorous mathematical
 logic with full-stack and data engineering training to solve complex technical challenges
-
-
----
-## 🛠 Languages & Tools
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,latex,linux,scikitlearn"/>
-
-<img src="https://skillicons.dev/icons?i=docker,sql,r,windows,matlab"/>
-
 
 ---
 
@@ -45,6 +35,14 @@ logic with full-stack and data engineering training to solve complex technical c
 📚 **BSc Honours in Mathematics** *(Current)*
 
 🎓 **BSc Mathematics & Chemistry**
+
+---
+
+## 🛠 Languages & Tools
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,latex,linux,scikitlearn"/>
+
+<img src="https://skillicons.dev/icons?i=docker,sqllite,r,windows,matlab"/>
 
 ---
 
