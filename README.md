@@ -1,105 +1,96 @@
-<h1 align="center">Hi 👋, I'm Celokuhle Sandise Ntete</h1>
+<div align="center">
 
-<h3 align="center">
-Honours Mathematics Student | Aspiring Data Scientist & Analyst | Scientific Programmer
-</h3>
+### Hi 👋, I'm Celokuhle Sandise Ntete
+#### Honours Mathematics | Aspiring Data Scientist & Analyst | Scientific Programmer
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Honours+Mathematics+Student;Fuzzy+Set+Theory+Researcher;Aspiring+Data+Scientist;Aspiring+Data+Analyst;Aspiring+Quantitative+Analyst;Python+Developer;Scientific+Programmer"/>
+Mathematics • Data Science • AI • Scientific Computing • Optimization
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+Quantitative **BSc Honours Mathematics** student with a strong foundation in mathematics, programming, and data analysis. I use **Python, SQL, Power BI, R, and MATLAB** to work with data, build analytical solutions, create visualizations, and develop computational applications.
+
+I am particularly interested in **data analytics, business intelligence, machine learning, and scientific programming**, and I enjoy turning data into practical insights and solutions.
+
+**Open to:** Junior Data Scientist | Data Analyst | Scientific Programmer | Python Developer roles in South Africa
+
+---
+### 💼 What I Do
+
+- **Data Analytics & Business Intelligence:** Retail analytics, sales trends, KPI dashboards, data visualization, and Power BI
+- **Data Science & Machine Learning:** Python, R, exploratory data analysis, clustering, and statistical analysis
+- **Programming & Data Applications:** Python, Streamlit, SQL/SQLite, Git, GitHub, and Docker
+- **Mathematical & Scientific Computing:** Mathematical modelling, optimization, numerical methods, and computational problem-solving
+
+---
+
+### 🚀 Featured Projects
+
+#### 🇿🇦 SA Retail Performance Dashboard
+**Power BI • DAX • Stats SA • Retail Analytics**
+
+Interactive Power BI analysis of South African retail trade data, covering:
+
+- Retail sales performance by dealer category
+- Annual sales growth
+- Monthly retail sales trends
+- KPI development and business intelligence reporting
+
+**Repository:** `SA-Retail-Dashboard-PowerBI`
+
+`Power BI` `DAX` `Retail Analytics` `Data Visualization`
+
+---
+
+#### 📊 CSS Streamlit App 2026
+**Python • Streamlit**
+
+Interactive data application developed as part of my software development training.
+
+[View Repository](https://github.com/Celokuhle04/css_streamlit_2026)
+
+`Python` `Streamlit` `Data Applications`
+
+---
+
+### 🛠️ Technical Skills
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,r,matlab,sqlite" height="45"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" height="45"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28"/>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" height="28"/>
 </p>
 
-<p align="center">
-Mathematics • Data Science • Artificial Intelligence • Scientific Computing • Optimization
-</p>
+**Data & Analytics:** Python • SQL • Power BI • DAX • R • Pandas • scikit-learn
 
-<p align="center">
-<img src="https://img.shields.io/badge/BSc-Mathematics%20%26%20Chemistry-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BSc-Honours%20Mathematics-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Research-Fuzzy%20Set%20Theory-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CHPC-Summer%20School-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FNB-App%20Academy-yellow?style=for-the-badge"/>
-</p>
+**Development:** Git • GitHub • Streamlit • SQLite • Docker • Linux
 
+**Mathematics & Computing:** Mathematical Modelling • Optimization • Numerical Methods • MATLAB
 
 ---
 
-## 👨‍💻 About Me
+### 🎓 Education
 
-Quantitative BSc Honours Mathematics student specializing in mathematical modeling and fuzzy set theory. Proficient in transforming complex datasets into actionable insights using Python, SQL, and Power BI. Combining rigorous mathematical
-logic with full-stack and data engineering training to solve complex technical challenges
+- **BSc Honours in Mathematics** *(Current)*  
+  Research: Fuzzy Set Theory and its applications to data analysis
 
----
-
-## 🎓 Education
-
-📚 **BSc Honours in Mathematics** *(Current)*
-
-🎓 **BSc Mathematics & Chemistry**
+- **BSc Mathematics & Chemistry**
 
 ---
 
-## 🛠 Languages & Tools
+### 🏅 Certifications & Professional Development
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,latex,linux,scikitlearn"/>
+- **CHPC Summer School** — Centre for High Performance Computing
+  - Scientific Computing
+  - High-Performance Computing
 
-<img src="https://skillicons.dev/icons?i=docker,sqlite,r,windows,matlab"/>
-
----
-
-## Certifications & Professional Development
-
-🏅 **CHPC Summer School Code**
-- Centre for High Performance Computing
-- Scientific Computing
-- High Performance Computing
-
-🚀 **FNB App Academy**
-- Currently participating
-- Mobile Application Development
-- Software Engineering Fundamentals
-
----
-
-## 📚 Current Research & Interests
-
-- Fuzzy Set Theory
-- Mathematical Optimization
-- Fuzzy Logic
-- Fuzzy C-Means Clustering
-- Data Analysis
-- Intelligent Systems
-- Scientific Computing
-- Pattern Recognition
-
----
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Celokuhle04&theme=tokyo-night"/>
-
----
-
-## 🎯 Current Learning
-
-- 📖 Advance research in fuzzy mathematics
-- 🧮 Develop optimization algorithms
-  
----
-
-## 🤝 Open to Collaborate
-
-I’m always interested in collaborating on projects related to:
-
-- 🧮 Applied Mathematics
-- 📊 Data Science & Analytics
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Fuzzy Set Theory & Intelligent Systems
-- 📈 Mathematical Optimization
-- 🐍 Python Programming
-- 💻 Scientific Computing
-- 📚 Academic Research
-
-I'm always open to learning, contributing to research projects, and connecting with fellow students, researchers, and professionals.
+- **FNB App Academy** *(Current)*
+  - Mobile Application Development
+  - Software Engineering Fundamentals
 
 ---
 ## 📫 Connect With Me
