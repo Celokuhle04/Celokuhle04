@@ -1,9 +1,9 @@
 <div align="center">
 
 ### Hi 👋, I'm Celokuhle Sandise Ntete
-#### Honours Mathematics | Aspiring Data Scientist & Analyst | Scientific Programmer
+#### Junior Data Scientist | Honours Mathematics
 
-Mathematics • Data Science • AI • Scientific Computing • Optimization
+Mathematics • Data Science • Machine Learning • Scientific Computing • Optimisation
 
 </div>
 
@@ -11,19 +11,19 @@ Mathematics • Data Science • AI • Scientific Computing • Optimization
 
 ### 👨‍💻 About Me
 
-Quantitative **BSc Honours Mathematics** student with a strong foundation in mathematics, programming, and data analysis. I use **Python, SQL, Power BI, R, and MATLAB** to work with data, build analytical solutions, create visualizations, and develop computational applications.
+Quantitative **BSc Honours Mathematics** student with a strong foundation in mathematics, programming, and data analysis. I use **Python, SQL, Power BI, R, and MATLAB** to work with data, build analytical solutions, create visualisations, and develop computational applications.
 
 I am particularly interested in **data analytics, business intelligence, machine learning, and scientific programming**, and I enjoy turning data into practical insights and solutions.
 
-**Open to:** Junior Data Scientist | Data Analyst | Scientific Programmer | Python Developer roles in South Africa
+**Open to: ** Junior Data Scientist | Data Analyst | Web Developer | Python Developer - South Africa
 
 ---
 ### 💼 What I Do
 
-- **Data Analytics & Business Intelligence:** Retail analytics, sales trends, KPI dashboards, data visualization, and Power BI
+- **Data Analytics & Business Intelligence:** Retail analytics, sales trends, KPI dashboards, data visualisation, and Power BI
 - **Data Science & Machine Learning:** Python, R, exploratory data analysis, clustering, and statistical analysis
-- **Programming & Data Applications:** Python, Streamlit, SQL/SQLite, Git, GitHub, and Docker
-- **Mathematical & Scientific Computing:** Mathematical modelling, optimization, numerical methods, and computational problem-solving
+- **Programming & Data Applications:** Python, Streamlit, Excel, SQL, SQLite, Git, GitHub, and Docker
+- **Mathematical & Scientific Computing:** Mathematical modelling, optimisation, numerical methods, and computational problem-solving
 
 ---
 
@@ -65,11 +65,11 @@ Interactive data application developed as part of my software development traini
 <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" height="28"/>
 </p>
 
-**Data & Analytics:** Python • SQL • Power BI • DAX • R • Pandas • scikit-learn
+**Data & Analytics:** Python • SQL • Power BI • DAX • Excel • R • Pandas • scikit-learn
 
 **Development:** Git • GitHub • Streamlit • SQLite • Docker • Linux
 
-**Mathematics & Computing:** Mathematical Modelling • Optimization • Numerical Methods • MATLAB
+**Mathematics & Computing:** Mathematical Modelling • Optimisation • Numerical Methods • MATLAB
 
 ---
 
@@ -89,8 +89,9 @@ Interactive data application developed as part of my software development traini
   - High-Performance Computing
 
 - **FNB App Academy** *(Current)*
-  - Mobile Application Development
-  - Software Engineering Fundamentals
+  - Software & Mobile App Development
+  - Business Fundamentals & Technology
+  - Programming Fundamentals
 
 ---
 ## 📫 Connect With Me
