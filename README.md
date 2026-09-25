@@ -87,7 +87,7 @@ Interactive data application developed as part of my software development traini
   - Scientific Computing
   - High-Performance Computing
 
-- **FNB App Academy (Current)** - JBS, University of Johannesburg
+- **FNB App Academy (Current)** — JBS, University of Johannesburg
   - Software & Mobile App Development
   - Business Fundamentals & Technology
   - Programming Fundamentals
