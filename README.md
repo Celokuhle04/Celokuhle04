@@ -29,7 +29,7 @@ I am particularly interested in **data analytics, business intelligence, machine
 
 ### 🚀 Featured Projects
 
-#### 🇿🇦 SA Retail Performance Dashboard - Power BI
+#### SA Retail Performance Dashboard - Power BI
 **Power BI • DAX • Stats SA • Retail Analytics**
 
 Interactive Power BI analysis of South African retail trade data (2005-2025), covering:
