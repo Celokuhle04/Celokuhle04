@@ -74,7 +74,7 @@ Interactive data application developed as part of my software development traini
 
 ### 🎓 Education
 
-- **BSc Honours in Mathematics (2026)** - University of Fort Hare  
+- **BSc Honours in Mathematics (Current)** - University of Fort Hare  
   Research: Fuzzy Set Theory and its applications to data analysis
 
 - **BSc Mathematics & Chemistry (2025)** - University of Fort Hare
@@ -87,7 +87,7 @@ Interactive data application developed as part of my software development traini
   - Scientific Computing
   - High-Performance Computing
 
-- **FNB App Academy - Johannesburg Business School, University of Johannesburg (Current)**
+- **FNB App Academy (Current)** - JBS, University of Johannesburg
   - Software & Mobile App Development
   - Business Fundamentals & Technology
   - Programming Fundamentals
