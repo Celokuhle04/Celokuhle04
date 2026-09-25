@@ -15,7 +15,7 @@ Quantitative **BSc Honours Mathematics** student with a strong foundation in mat
 
 I am particularly interested in **data analytics, business intelligence, machine learning, and scientific programming**, and I enjoy turning data into practical insights and solutions.
 
-**Open to: ** Junior Data Scientist | Data Analyst | Web Developer | Python Developer - South Africa
+**Open to:** Junior Data Scientist | Data Analyst | Web Developer | Python Developer - South Africa
 
 ---
 ### 💼 What I Do
