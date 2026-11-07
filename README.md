@@ -32,13 +32,13 @@ I am particularly interested in **data analytics, business intelligence, machine
 #### 💰 Personal Finance Tracker
 **Python • Flet • Matplotlib • JSON**
 
-A desktop personal finance application built with Python and Flet to help users manage and monitor their finances, covering:\
- - Financial dashboard displaying total income, expenses and current balance\
- - Adding, editing and deleting transactions\
- - Transaction history with search and filtering\
- - Monthly financial reports and savings rate analysis\
- - Income vs expenses and expense-by-category charts\
- - Persistent transaction storage using JSON\
+A desktop personal finance application built with Python and Flet to help users manage and monitor their finances, covering:
+ - Financial dashboard displaying total income, expenses and current balance
+ - Adding, editing and deleting transactions
+ - Transaction history with search and filtering
+ - Monthly financial reports and savings rate analysis
+ - Income vs expenses and expense-by-category charts
+ - Persistent transaction storage using JSON
 
 [View Repository]\(https://github.com/Celokuhle04/personal_finance_tracker)
 
