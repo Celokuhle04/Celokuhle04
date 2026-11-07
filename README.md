@@ -40,7 +40,7 @@ A desktop personal finance application built with Python and Flet to help users 
  - Income vs expenses and expense-by-category charts
  - Persistent transaction storage using JSON
 
-[View Repository]\(https://github.com/Celokuhle04/personal_finance_tracker)
+[View Repository](https://github.com/Celokuhle04/personal_finance_tracker)
 
 `Python` `Flet` `Matplotlib` `JSON` `Data Visualization`
 
