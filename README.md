@@ -4,7 +4,7 @@
 
 #### Junior Data Scientist | Data Analyst | Honours Mathematics
 
-Mathematics • Data Analytics • Machine Learning • Scientific Computing • Optimisation
+SQL • Python • Power BI • Data Analytics • Mathematics • Machine Learning 
 
 </div>
 
