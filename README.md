@@ -2,7 +2,7 @@
 
 ### Hi 👋, I'm Celokuhle Sandise Ntete
 
-#### Junior Data Scientist | Data Analyst | Honours Mathematics
+#### Junior Data Analyst | Aspiring Data Scientist | Honours Mathematics
 
 SQL • Python • Power BI • Data Analytics • Mathematics • Machine Learning 
 
@@ -14,20 +14,21 @@ SQL • Python • Power BI • Data Analytics • Mathematics • Machine Learn
 
 BSc Honours Mathematics candidate with a strong foundation in mathematics, programming and data analysis. Having completed my Honours academic year, I am currently awaiting final results.
 
-I use **Python, SQL, Power BI, R and MATLAB** to analyse data, develop analytical solutions, build visualisations and create computational applications.
+I use **Python, SQL, Power BI, Excel and MATLAB** to analyse data, develop analytical solutions, build visualisations and create computational applications.
 
 I am particularly interested in **data analytics, business intelligence, machine learning and scientific programming**, with a focus on applying mathematical and computational skills to practical problems.
 
-**Open to:** Junior Data Scientist | Data Analyst | Graduate Analyst | Python Developer – South Africa
+**Open to:** Junior Data Scientist | Data Analyst | Graduate Analyst 
+**Location:** South Africa | Open to Remote
 
 ---
 
 ### 💼 What I Do
 
-- **Data Analytics & Business Intelligence:** Retail analytics, sales trends, KPI dashboards, data visualisation and Power BI.
-- **Data Science & Machine Learning:** Python, R, exploratory data analysis, clustering and statistical analysis.
-- **Programming & Data Applications:** Python, SQL, Streamlit, Excel, SQLite, Git, GitHub and Docker.
-- **Mathematical & Scientific Computing:** Mathematical modelling, optimisation, numerical methods and computational problem-solving.
+- **Data Analytics:** Exploratory data analysis, business performance analysis, KPI reporting and data visualisation.
+- **Business Intelligence:** Power BI dashboard, DAX measures, sales trends and performance reporting.
+- **Programming & Data Applications:** Python development, Streamlit applications and financial data tools.
+- **Mathematical Computing:** Mathematical modelling, optimisation, numerical methods and computational problem-solving.
 
 ---
 
