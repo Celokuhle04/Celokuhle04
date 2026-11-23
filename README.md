@@ -80,7 +80,7 @@ A desktop personal finance application developed to help users manage and monito
 
 ### 🛠️ Technical Skills
 
-[![Python, MATLAB](https://skillicons.dev/icons?i=python,matlab,sqlite)](https://skillicons.dev)
+[![Python, MATLAB](https://skillicons.dev/icons?i=python,matlab)](https://skillicons.dev)
 [![Git, GitHub, VS Code, Linux, Docker](https://skillicons.dev/icons?i=git,github,vscode,linux,docker)](https://skillicons.dev)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
