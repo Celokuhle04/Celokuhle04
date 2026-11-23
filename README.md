@@ -16,18 +16,17 @@ BSc Honours Mathematics candidate at the University of Fort Hare, having complet
 
 I use **Python, SQL, Power BI, Excel and MATLAB** to analyse data, develop dashboards and build practical applications.
 
-My interest include **data analytics, business intelligence, machine learning and scientific programming**.
+My interests include **data analytics, business intelligence, machine learning and scientific programming**.
 
 **Open to:** Junior Data Scientist | Data Analyst | Graduate Analyst 
 
-**Location:** South Africa | Open to Remote
-
+**Location:** South Africa | Open to Remote Opportunities
 ---
 
 ### 💼 What I Do
 
 - **Data Analytics:** Exploratory data analysis, business performance analysis, KPI reporting and data visualisation.
-- **Business Intelligence:** Power BI dashboard, DAX measures, sales trends and performance reporting.
+- **Business Intelligence:** Power BI dashboards, DAX measures, sales trends and performance reporting.
 - **Programming & Data Applications:** Python development, Streamlit applications and financial data tools.
 - **Mathematical Computing:** Mathematical modelling, optimisation, numerical methods and computational problem-solving.
 
@@ -55,7 +54,7 @@ Analysed 3.6 million+ records across 7 datasets to answer 14 business questions 
 
 **Power BI • DAX • Stats SA • Retail Analytics**
 
-Interactive analysis of 20 years of South African retail trade data (2005—2025).
+Interactive analysis of South African retail trade data (2005—2025).
 
 - Retail sales performance by dealer category, annual sales growth and monthly retail sales trends.
 - KPI development and business intelligence reporting.
@@ -70,7 +69,7 @@ Interactive analysis of 20 years of South African retail trade data (2005—2025
 
 **Python • Flet • Matplotlib • JSON**
 
-A desktop personal finance application developed to help users manage and monitor their finances: track income and expenses, search transactions, view monthly reports and savings rate and see income vs expenses by category.
+A desktop personal finance application developed to help users manage their finances through income and expense tracking, transaction search and filtering, monthly reports, savings rate analysis and interactive financial charts.
 
 [View Repository](https://github.com/Celokuhle04/personal_finance_tracker)
 
@@ -103,15 +102,15 @@ A desktop personal finance application developed to help users manage and monito
 
 ### 🏅 Certifications & Professional Development
 
-- **CHPC Summer School (2026)** — Centre for High Performance Computing
-  - Scientific Computing
-  - High-Performance Computing
-
 - **FNB App Academy (Current)** — JBS, University of Johannesburg
   - Software & Mobile App Development
   - Business Fundamentals & Technology
   - Programming Fundamentals
-
+    
+- **CHPC Summer School (2026)** — Centre for High Performance Computing
+  - Scientific Computing
+  - High-Performance Computing
+    
 ---
 
 ## 📫 Connect With Me
