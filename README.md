@@ -87,9 +87,9 @@ A desktop personal finance application developed to help users manage their fina
 
 **Data & Analytics:** Python • SQL • Power BI • DAX • Excel • Pandas • scikit-learn
 
-**Development:** Git • GitHub • Streamlit • Docker • Linux • Flet
+**Development:** Git • GitHub • Streamlit • Docker • Linux • Flet • VS Code
 
-**Mathematics & Computing:** Mathematical Modeling • Optimisation • Numerical Methods • MATLAB • Scientific Computing
+**Mathematics & Computing:** Mathematical Modeling • Optimisation • Numerical Methods • MATLAB • LaTex
 
 ---
 
