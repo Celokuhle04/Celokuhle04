@@ -38,14 +38,11 @@ I am particularly interested in **data analytics, business intelligence, machine
 
 **SQL Server • Python • Excel • Power BI**
 
-End-to-end business performance analysis using the TheLook eCommerce dataset, covering:
+Analysed 3.6 million+ records across 7 datasets to answer 14 business questions on revenue, profit, customers and products.
 
-- Analysis of 3.6 million+ records across seven datasets.
-- SQL-based investigation of 14 business questions.
-- Revenue, gross profit, customer and product performance analysis.
-- Python exploratory data analysis and Excel reporting.
-- Five-page interactive Power BI dashboard.
+- Built a 5-page interactive Power BI dashboard.
 - Identified an overall gross profit margin of 51.87%.
+- Delivered SQL analysis, Python EDA and Excel reporting.
 
 [View Repository](https://github.com/Celokuhle04/TheLook-eCommerce-Analytics)
 
@@ -96,9 +93,9 @@ A desktop personal finance application developed to help users manage and monito
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-**Data & Analytics:** Python • SQL • Power BI • DAX • Excel • R • Pandas • scikit-learn
+**Data & Analytics:** Python • SQL • Power BI • DAX • Excel • Pandas • scikit-learn
 
-**Development:** Git • GitHub • Streamlit • SQLite • Docker • Linux • Flet
+**Development:** Git • GitHub • Streamlit • Docker • Linux • Flet
 
 **Mathematics & Computing:** Mathematical Modelling • Optimisation • Numerical Methods • MATLAB • Scientific Computing
 
@@ -107,7 +104,7 @@ A desktop personal finance application developed to help users manage and monito
 ### 🎓 Education
 
 - **BSc Honours Mathematics – Completed, Awaiting Final Results** – University of Fort Hare  
-  Research: Fuzzy Set Theory and its Applications to Data Analysis.
+  Research: Fuzzy Set Theory and its Applications to Modern Data Analysis.
 - **BSc Mathematics & Chemistry (2025)** – University of Fort Hare.
 
 ---
