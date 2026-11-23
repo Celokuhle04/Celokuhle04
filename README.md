@@ -95,7 +95,7 @@ A desktop personal finance application developed to help users manage their fina
 
 ### 🎓 Education
 
-- **BSc Honours Mathematics – Completed, Awaiting Final Results** – University of Fort Hare  
+- **BSc Honours Mathematics – Completed (2026), Awaiting Final Results** – University of Fort Hare  
   Research: Fuzzy Set Theory and its Applications to Modern Data Analysis.
 - **BSc Mathematics & Chemistry (2025)** – University of Fort Hare.
 
