@@ -12,11 +12,11 @@ SQL • Python • Power BI • Data Analytics • Mathematics • Machine Learn
 
 ### 👨‍💻 About Me
 
-BSc Honours Mathematics candidate with a strong foundation in mathematics, programming and data analysis. Having completed my Honours academic year, I am currently awaiting final results.
+BSc Honours Mathematics candidate at the University of Fort Hare, having completed my Honours academic year and currently awaiting final results.
 
-I use **Python, SQL, Power BI, Excel and MATLAB** to analyse data, develop analytical solutions, build visualisations and create computational applications.
+I use **Python, SQL, Power BI, Excel and MATLAB** to analyse data, develop dashboards and build practical applications.
 
-I am particularly interested in **data analytics, business intelligence, machine learning and scientific programming**, with a focus on applying mathematical and computational skills to practical problems.
+My interest include **data analytics, business intelligence, machine learning and scientific programming**.
 
 **Open to:** Junior Data Scientist | Data Analyst | Graduate Analyst 
 
@@ -55,7 +55,7 @@ Analysed 3.6 million+ records across 7 datasets to answer 14 business questions 
 
 **Power BI • DAX • Stats SA • Retail Analytics**
 
-Interactive analysis of 20 years of South African retail trade data(2005-2025).
+Interactive analysis of 20 years of South African retail trade data (2005—2025).
 
 - Retail sales performance by dealer category, annual sales growth and monthly retail sales trends.
 - KPI development and business intelligence reporting.
@@ -89,7 +89,7 @@ A desktop personal finance application developed to help users manage and monito
 
 **Development:** Git • GitHub • Streamlit • Docker • Linux • Flet
 
-**Mathematics & Computing:** Mathematical Modelling • Optimisation • Numerical Methods • MATLAB • Scientific Computing
+**Mathematics & Computing:** Mathematical Modeling • Optimisation • Numerical Methods • MATLAB • Scientific Computing
 
 ---
 
