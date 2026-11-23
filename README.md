@@ -19,6 +19,7 @@ I use **Python, SQL, Power BI, Excel and MATLAB** to analyse data, develop analy
 I am particularly interested in **data analytics, business intelligence, machine learning and scientific programming**, with a focus on applying mathematical and computational skills to practical problems.
 
 **Open to:** Junior Data Scientist | Data Analyst | Graduate Analyst 
+
 **Location:** South Africa | Open to Remote
 
 ---
