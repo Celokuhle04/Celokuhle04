@@ -21,6 +21,7 @@ My interests include **data analytics, business intelligence, machine learning a
 **Open to:** Junior Data Scientist | Data Analyst | Graduate Analyst 
 
 **Location:** South Africa | Open to Remote Opportunities
+
 ---
 
 ### 💼 What I Do
@@ -102,11 +103,9 @@ A desktop personal finance application developed to help users manage their fina
 
 ### 🏅 Certifications & Professional Development
 
-- **FNB App Academy (Current)** — JBS, University of Johannesburg
-  - Software & Mobile App Development
-  - Business Fundamentals & Technology
-  - Programming Fundamentals
-    
+- **Higher Certificate in Digital Entrepreneurship (NQF Level 5) — Completed (2026), Certificate Pending**  
+  Johannesburg Business School, University of Johannesburg | FNB App Academy
+  
 - **CHPC Summer School (2026)** — Centre for High Performance Computing
   - Scientific Computing
   - High-Performance Computing
