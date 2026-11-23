@@ -2,7 +2,7 @@
 
 ### Hi 👋, I'm Celokuhle Sandise Ntete
 
-#### Junior Data Analyst | Aspiring Data Scientist | Honours Mathematics
+#### Junior Data Analyst | Aspiring Data Scientist | BSc Honours Mathematics
 
 SQL • Python • Power BI • Data Analytics • Mathematics • Machine Learning 
 
@@ -55,7 +55,7 @@ Analysed 3.6 million+ records across 7 datasets to answer 14 business questions 
 
 **Power BI • DAX • Stats SA • Retail Analytics**
 
-Interactive analysis of South African retail trade data (2005—2025).
+Interactive analysis of South African retail trade data (2005–2025).
 
 - Retail sales performance by dealer category, annual sales growth and monthly retail sales trends.
 - KPI development and business intelligence reporting.
