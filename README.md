@@ -54,11 +54,9 @@ Analysed 3.6 million+ records across 7 datasets to answer 14 business questions 
 
 **Power BI • DAX • Stats SA • Retail Analytics**
 
-Interactive Power BI analysis of South African retail trade data (2005–2025), covering:
+Interactive analysis of 20 years of South African retail trade data(2005-2025).
 
-- Retail sales performance by dealer category.
-- Annual sales growth.
-- Monthly retail sales trends.
+- Retail sales performance by dealer category, annual sales growth and monthly retail sales trends.
 - KPI development and business intelligence reporting.
 
 [View Repository](https://github.com/Celokuhle04/SA-Retail-Dashboard-Power-BI)
@@ -71,14 +69,7 @@ Interactive Power BI analysis of South African retail trade data (2005–2025), 
 
 **Python • Flet • Matplotlib • JSON**
 
-A desktop personal finance application developed to help users manage and monitor their finances, featuring:
-
-- Financial dashboard displaying income, expenses and balance.
-- Adding, editing and deleting transactions.
-- Transaction history with search and filtering.
-- Monthly reports and savings rate analysis.
-- Income vs expenses and expense-by-category charts.
-- Persistent transaction storage using JSON.
+A desktop personal finance application developed to help users manage and monitor their finances: track income and expenses, search transactions, view monthly reports and savings rate and see income vs expenses by category.
 
 [View Repository](https://github.com/Celokuhle04/personal_finance_tracker)
 
@@ -88,7 +79,7 @@ A desktop personal finance application developed to help users manage and monito
 
 ### 🛠️ Technical Skills
 
-[![Python, R, MATLAB, SQLite](https://skillicons.dev/icons?i=python,r,matlab,sqlite)](https://skillicons.dev)
+[![Python, MATLAB, SQLite](https://skillicons.dev/icons?i=python,matlab,sqlite)](https://skillicons.dev)
 [![Git, GitHub, VS Code, Linux, Docker](https://skillicons.dev/icons?i=git,github,vscode,linux,docker)](https://skillicons.dev)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
